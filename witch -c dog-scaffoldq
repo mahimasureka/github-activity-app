@@ -1,0 +1,5 @@
+* [33m3c98ce3[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m Modify the destroy-person button
+* [33m3b75b4a[m Update people index to use tabular layout
+* [33m312f380[m Add root route
+* [33mac33c1a[m Add Person model and scaffold pages
+* [33m29dd053[m Add new app skeleton
